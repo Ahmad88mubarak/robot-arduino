@@ -1,8 +1,4 @@
-/*  <--- Arduino Light Seeking and Obstacle Avoiding Robot --->
- * 
- * This sketch shows all the functions of the robot
- * combined. It is the final sketch.
- * 
+
  * Components  used in this sketch
  * ----------
  *  - Arduino Uno
@@ -24,16 +20,10 @@
  *  - Servo.h
  *  - HC_SR04.h   (Download from txplo.re/HC_SR04lib)
  *
- * Connections 
- * -----------
- *  See schematic in file "ALSOA - final schematic.png", available for download from the downloadable resources
- *  for this lecture.
  * 
  * Other information
  * -----------------
- *  Always remember to plug in the Servo Motors batteries first and then the Arduino batteries.
- *  Original code for the HC_SR04 library is available at https://github.com/jazzycamel/arduino/tree/master/ultrasonic
- *  Download the HC_SR04 library as used in this course from txplo.re/HC_SR04lib
+
 
 #include <Servo.h> //include Servo library
 
